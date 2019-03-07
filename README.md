@@ -2,7 +2,7 @@
 
 ## DecoderSample with Standard Decoders
 
-This repository contains sample implementations a set of decoders for LoRaWAN end devices available on the market and is meant to supplement the [Azure IoT Edge LoRaWAN Starter Kit](https://github.com/Azure/iotedge-lorawan-starterkit).
+This repository contains sample implementations for a set of decoders for LoRaWAN end devices available on the market and is meant to supplement the [Azure IoT Edge LoRaWAN Starter Kit](https://github.com/Azure/iotedge-lorawan-starterkit).
 
 The [original sample](https://github.com/Azure/iotedge-lorawan-starterkit/tree/master/Samples/DecoderSample) that this repository bases off allows you to create and run your own LoRa message decoder in an independent container running on your LoRa gateway without having to edit the main LoRa Engine.
 
